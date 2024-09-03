@@ -25,7 +25,7 @@ body, html {
 .content img {
 	max-width: 100%;
 	height: auto;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 
 .content button {
